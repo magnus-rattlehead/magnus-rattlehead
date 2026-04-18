@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 $ date
 Fri 16:59 EST
 $ git push origin master --force
-Enumerating objects: 17, done.
+Enumerating objects: 14, done.
 Counting objects: 100% (14/14), done.
 Delta compression using up to 10 threads
 Compressing objects: 100% (10/10), done.
