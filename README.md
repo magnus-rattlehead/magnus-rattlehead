@@ -20,7 +20,7 @@ $ date
 Fri 16:59 EST
 $ git push origin master --force
 Enumerating objects: 17, done.
-Counting objects: 100% (17/17), done.
+Counting objects: 100% (14/14), done.
 Delta compression using up to 10 threads
 Compressing objects: 100% (10/10), done.
 Writing objects: 100% (10/10), 1.24 KiB | 1.24 MiB/s, done.
